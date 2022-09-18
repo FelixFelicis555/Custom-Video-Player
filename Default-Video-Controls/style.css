@@ -1,0 +1,10 @@
+.center {
+    text-align: center;
+}
+
+#sample_video::cue {
+    background-color: transparent;
+    color: #FFF;
+    font-size: 32px;
+    font-family: "Lobster", cursive;
+}
